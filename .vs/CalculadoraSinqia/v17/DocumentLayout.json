@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\thoma\\source\\repos\\CalculadoraSinqia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53B01DF2-19B2-4249-89BA-4F97E4A1D844}|CalculadoraSinqia\\CalculadoraSinqia.csproj|c:\\users\\thoma\\source\\repos\\calculadorasinqia\\calculadorasinqia\\git.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{53B01DF2-19B2-4249-89BA-4F97E4A1D844}|CalculadoraSinqia\\CalculadoraSinqia.csproj|solutionrelative:calculadorasinqia\\git.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{53B01DF2-19B2-4249-89BA-4F97E4A1D844}|CalculadoraSinqia\\CalculadoraSinqia.csproj|c:\\users\\thoma\\source\\repos\\calculadorasinqia\\calculadorasinqia\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{53B01DF2-19B2-4249-89BA-4F97E4A1D844}|CalculadoraSinqia\\CalculadoraSinqia.csproj|solutionrelative:calculadorasinqia\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53B01DF2-19B2-4249-89BA-4F97E4A1D844}|CalculadoraSinqia\\CalculadoraSinqia.csproj|c:\\users\\thoma\\source\\repos\\calculadorasinqia\\calculadorasinqia\\models\\investimentoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,12 +59,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "git.gitignore",
-              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\CalculadoraSinqia\\CalculadoraSinqia\\git.gitignore",
-              "RelativeDocumentMoniker": "CalculadoraSinqia\\git.gitignore",
-              "ToolTip": "C:\\Users\\thoma\\source\\repos\\CalculadoraSinqia\\CalculadoraSinqia\\git.gitignore",
-              "RelativeToolTip": "CalculadoraSinqia\\git.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\CalculadoraSinqia\\CalculadoraSinqia\\.gitignore",
+              "RelativeDocumentMoniker": "CalculadoraSinqia\\.gitignore",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\CalculadoraSinqia\\CalculadoraSinqia\\.gitignore",
+              "RelativeToolTip": "CalculadoraSinqia\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-04-04T03:05:39.812Z",
               "EditorCaption": ""
@@ -151,8 +151,7 @@
               "RelativeToolTip": "CalculadoraSinqia\\Models\\InvestimentoResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAA+wAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T01:02:03.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T01:02:03.203Z"
             },
             {
               "$type": "Document",
