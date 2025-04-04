@@ -1,4 +1,4 @@
-# Compiled files
+# Build results
 bin/
 obj/
 
@@ -7,7 +7,7 @@ obj/
 *.user
 *.suo
 
-# Database
+# SQLite database
 *.db
 
 # Others
