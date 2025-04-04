@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CalculadoraController",
+    "Method": "Calcular",
+    "RelativePath": "Calculadora/calcular",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InvestimentoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

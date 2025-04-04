@@ -1,0 +1,62 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CalculadoraSinqia",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Calculadora/calcular": {
+      "post": {
+        "tags": [
+          "Calculadora"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/InvestimentoRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/InvestimentoRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/InvestimentoRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "InvestimentoRequest": {
+        "type": "object",
+        "properties": {
+          "valorInicial": {
+            "type": "number",
+            "format": "double"
+          },
+          "dataAplicacao": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "dataFinal": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

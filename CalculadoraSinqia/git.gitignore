@@ -1,0 +1,15 @@
+# Compiled files
+bin/
+obj/
+
+# User-specific files
+.vs/
+*.user
+*.suo
+
+# Database
+*.db
+
+# Others
+*.DS_Store
+*.log
