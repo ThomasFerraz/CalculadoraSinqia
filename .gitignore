@@ -1,15 +1,22 @@
-# Build results
+# Compiled source
 bin/
 obj/
 
-# User-specific files
+# Visual Studio files
 .vs/
 *.user
 *.suo
 
-# SQLite database
+# Build Results
+**/bin/
+**/obj/
+
+# Database
 *.db
 
-# Others
-*.DS_Store
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
 *.log
